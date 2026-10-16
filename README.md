@@ -4,7 +4,9 @@
 
 <h1 align="center">Agent Radar</h1>
 
-<h3 align="center">Five agents, twelve tabs, three screens.<br>Know which one is waiting for you.</h3>
+<h3 align="center">Five agents, twelve tabs, three screens. Lost yet?</h3>
+
+<p align="center">Agent Radar keeps every agent at the edge of your screen — and points to the one that needs you.</p>
 
 <p align="center">
   <a href="https://github.com/yergunes/agent-radar-releases/releases/latest"><b>⬇&nbsp;Download for macOS</b></a>
