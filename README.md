@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" alt="Agent Radar icon">
+  <img src="assets/icon.png" width="128" alt="Sideline icon">
 </p>
 
-<h1 align="center">Agent Radar</h1>
+<h1 align="center">Sideline</h1>
 
 <h3 align="center">Five agents, twelve tabs, three screens. Lost yet?</h3>
 
-<p align="center">Agent Radar keeps every agent at the edge of your screen — and points to the one that needs you.</p>
+<p align="center">Sideline keeps every agent at the edge of your screen — and points to the one that needs you.</p>
 
 <p align="center">
-  <a href="https://github.com/yergunes/agent-radar-releases/releases/latest"><b>⬇&nbsp;Download for macOS</b></a>
+  <a href="https://github.com/yergunes/sideline-releases/releases/latest"><b>⬇&nbsp;Download for macOS</b></a>
   &nbsp;·&nbsp; macOS 14 or later &nbsp;·&nbsp; Apple Silicon &amp; Intel
 </p>
 
 ---
 
-Agent Radar is a small macOS app for people who run several **Claude Code** (and Codex) agents in their terminals at once. It docks a slim panel to the edge of your screen with one circle per agent, so you see at a glance who is working, who needs your permission and who has finished — and you can answer without hunting for the right tab.
+Sideline is a small macOS app for people who run several **Claude Code** (and Codex) agents in their terminals at once. It docks a slim panel to the edge of your screen with one circle per agent, so you see at a glance who is working, who needs your permission and who has finished — and you can answer without hunting for the right tab.
 
 <p align="center">
   <img src="assets/panel.png" width="380" alt="The edge panel with a hover card: an agent running three subagents">
@@ -41,7 +41,7 @@ Agent Radar is a small macOS app for people who run several **Claude Code** (and
 
 **🌙 Night shift.** Queue prompts per project; they start one at a time while you sleep, within your usage limits, with a morning report.
 
-**📁 Your projects, with their icons.** Projects come from your Claude Code history; Agent Radar finds each one's app icon, touch icon or favicon by itself, and you can pick another from a gallery.
+**📁 Your projects, with their icons.** Projects come from your Claude Code history; Sideline finds each one's app icon, touch icon or favicon by itself, and you can pick another from a gallery.
 
 **🎨 Make it yours.** Left or right edge, icon size, opacity, accent colour, window corners — and it slides out of the way when nothing is happening, or when a full-screen video is playing.
 
@@ -53,8 +53,8 @@ Agent Radar is a small macOS app for people who run several **Claude Code** (and
 
 ## Install
 
-1. Download the latest **AgentRadar-x.y.z.dmg** from [Releases](https://github.com/yergunes/agent-radar-releases/releases/latest).
-2. Open it and drag **Agent Radar** into **Applications**.
+1. Download the latest **Sideline-x.y.z.dmg** from [Releases](https://github.com/yergunes/sideline-releases/releases/latest).
+2. Open it and drag **Sideline** into **Applications**.
 3. Launch it. The welcome guide connects Claude Code (a small local plugin and a status-line wrapper; both can be removed from Settings at any time).
 4. In Claude Code sessions that were already open, run `/reload-plugins` once.
 
@@ -62,7 +62,7 @@ The app is signed with a Developer ID and notarized by Apple. Updates arrive aut
 
 ## Privacy
 
-Everything stays on your Mac. Agent Radar reads the events your agents report through the plugin and the transcripts Claude Code already writes; there is no account, no server and no analytics. Event logs of ended sessions are deleted after a few days (you choose how many).
+Everything stays on your Mac. Sideline reads the events your agents report through the plugin and the transcripts Claude Code already writes; there is no account, no server and no analytics. Event logs of ended sessions are deleted after a few days (you choose how many).
 
 ---
 
